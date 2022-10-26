@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/_lucxfvr'
+global.sig = 'https://www.instagram.com/saintyyards'
 global.sgh = 'https://github.com/VarrelKun'
 global.sgc = 'https://chat.whatsapp.com/DRnWIXKf0VLH4KArdpH4IX'
 global.sdc = " "
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085954184111'
-global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '085954184111'
-global.ppulsa2 = '085954184111'
-global.psaweria = '_'
+global.pdana = '085750867996'
+global.povo = '085750867996'
+global.pgopay = '085750867996'
+global.ppulsa = '085750867996'
+global.ppulsa2 = '085750867996'
+global.psaweria = 'https://saweria.co/shiroxd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '17754764633'
-global.nomorown = '6282321015688'
+global.nomorbot = '6281287699064'
+global.nomorown = '6285750867996'
 global.namebot = 'xynaa'
 global.nameown = 'Xennz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17754764633'],
-  ['6285954184111'],
-  ['18126338970'],
-  ['6282321015688', 'Xynaa', true]
+  ['6285750867996'],
+  ['6285750867996'],
+  ['6285750867996'],
+  ['6285750867996', 'Xynaa', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,12 +114,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌 」' //Main Watermark
-global.wm2 = '𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
-global.wm3 = '⛧𝐏𝐄𝐍𝐓𝐀𝐆𝐑𝐀𝐌'
+global.wm = '                「 s6inty ngentot 」' //Main Watermark
+global.wm2 = 'yan kontol'
+global.wm3 = 'diluar nalar coy'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ PENTAGRAM ʙᴏᴛ'
+global.titlebot = '⛧┊ YAN MD ʙᴏᴛ'
 global.author = global.wm
 
 
